@@ -1,6 +1,6 @@
 {
   "name": "@kache/sdk",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "dApp connector for the Kache Kaspa wallet — connect, read account/balance, sign messages, and request KAS transfers via window.kache.",
   "license": "MIT",
   "type": "module",
