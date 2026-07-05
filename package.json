@@ -1,7 +1,7 @@
 {
   "name": "@kache/sdk",
-  "version": "1.0.0",
-  "description": "dApp connector for the Kache Kaspa wallet — connect, read account/balance, sign messages, and request KAS transfers via window.kache.",
+  "version": "1.1.0",
+  "description": "dApp connector for the Kache wallet — Kaspa L1 via window.kache plus the Kasplex / Igra EVM L2s via window.ethereum (EIP-1193 / EIP-6963).",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
